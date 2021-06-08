@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="290.5" viewBox="0 0 600 290.5">
+  <g id="Grupo_56742" data-name="Grupo 56742" transform="translate(6043 7926)">
+    <rect id="Rectángulo_5672" data-name="Rectángulo 5672" width="600" height="57" transform="translate(-6043 -7876)" fill="#96f8f8"/>
+    <rect id="Rectángulo_5673" data-name="Rectángulo 5673" width="352" height="182" transform="translate(-6043 -7818)" fill="#f1eaff"/>
+    <path id="Trazado_104153" data-name="Trazado 104153" d="M0,0H599.776V50H0Z" transform="translate(-6043 -7926)" fill="#392a8d"/>
+    <text id="Variable:_IMPACTO_Por_competencia_" data-name="Variable: IMPACTO (Por competencia)" transform="translate(-5768 -7895)" fill="#fff" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-172.622" y="0">Variable: IMPACTO (Por competencia)</tspan></text>
+    <text id="Para_la_pregunta_relacionada_con:" data-name="Para la pregunta relacionada con:" transform="translate(-6024 -7852)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="15">Para la pregunta relacionada con:</tspan></text>
+    <text id="Descripción" transform="translate(-5643 -7835)" fill="#12263f" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Descripción</tspan></text>
+    <rect id="Rectángulo_5674" data-name="Rectángulo 5674" width="248" height="63" transform="translate(-5691 -7699)" fill="#fff"/>
+    <text id="El_aporte_a_las_conductas_para_el_cumplimiento_de_los_compromisos_" data-name="El aporte a las conductas para el cumplimiento de los compromisos
+" transform="translate(-6024 -7779)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">El aporte a las conductas para el </tspan><tspan x="0" y="39">cumplimiento de los compromisos</tspan><tspan x="0" y="63"></tspan></text>
+    <rect id="Rectángulo_5675" data-name="Rectángulo 5675" width="248" height="60" transform="translate(-5691 -7760)" fill="#f6f6f6"/>
+    <text id="SI" transform="translate(-5643 -7787)" fill="#12263f" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">SI</tspan></text>
+    <text id="Moderadamente" transform="translate(-5643 -7730)" fill="#12263f" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Moderadamente</tspan></text>
+    <text id="NO" transform="translate(-5643 -7664)" fill="#12263f" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">NO</tspan></text>
+    <line id="Línea_196" data-name="Línea 196" y2="240" transform="translate(-5691 -7876)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-width="1"/>
+    <g id="Trazado_104154" data-name="Trazado 104154" transform="translate(-6043 -7876)" fill="none">
+      <path d="M0,240H599.776V0H0Z" stroke="none"/>
+      <path d="M 598.77587890625 239 L 598.77587890625 0.9999923706054688 L 1.000016331672668 0.9999923706054688 L 1.000016331672668 239 L 598.77587890625 239 M 599.77587890625 240 L 1.637620152905583e-05 240 L 1.637620152905583e-05 -7.62939453125e-06 L 599.77587890625 -7.62939453125e-06 L 599.77587890625 240 Z" stroke="none" fill="#bcbcbc"/>
+    </g>
+    <path id="flecha-correcta" d="M21.948,30.591A4.008,4.008,0,1,0,16.28,36.26l5.575,5.576H3.823a3.823,3.823,0,1,0,0,7.645H21.854L16.28,55.056a4.008,4.008,0,0,0,5.668,5.668L36.473,46.2a.765.765,0,0,0,0-1.081Z" transform="translate(-5746 -7833.417)" fill="#5e448f"/>
+    <path id="flecha-correcta-2" data-name="flecha-correcta" d="M21.948,30.591A4.008,4.008,0,1,0,16.28,36.26l5.575,5.576H3.823a3.823,3.823,0,1,0,0,7.645H21.854L16.28,55.056a4.008,4.008,0,0,0,5.668,5.668L36.473,46.2a.765.765,0,0,0,0-1.081Z" transform="translate(-5746 -7776.417)" fill="#5e448f"/>
+    <path id="flecha-correcta-3" data-name="flecha-correcta" d="M21.948,30.591A4.008,4.008,0,1,0,16.28,36.26l5.575,5.576H3.823a3.823,3.823,0,1,0,0,7.645H21.854L16.28,55.056a4.008,4.008,0,0,0,5.668,5.668L36.473,46.2a.765.765,0,0,0,0-1.081Z" transform="translate(-5746 -7719.417)" fill="#5e448f"/>
+  </g>
+</svg>
