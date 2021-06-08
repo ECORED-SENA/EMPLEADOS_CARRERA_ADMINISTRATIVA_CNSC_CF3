@@ -63,4 +63,12 @@ body
     border-top: 10px solid
     left: 50%
     border-top-color: #522981
+.banner-principal p, .banner-principal h1
+  color: #fff !important
+.d-none.d-lg-block.col-lg-5.banner-principal__img.px-0
+  text-align: right !important
+.banner-principal__img img
+  max-width: 320px !important
+  display: inline !important
+  margin-bottom: -7px
 </style>
