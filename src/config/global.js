@@ -96,26 +96,32 @@ export default {
     contenidoInstruccional: [
       {
         nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Responsable Equipo',
-      },
-      {
-        nombre: 'Martha Isabel Martínez Vargas',
-        cargo: 'Revisora de estilo',
-      },
-      {
+        cargo: 'Asesor metodológico y pedagógico',
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
       },
       {
-        nombre: 'Sandra Isabel Suarez Delgado',
-        cargo: 'Experta temática',
-        centro: 'Centro de Servicios y Gestión Empresarial',
-        regional: 'Regional Antioquia',
+        nombre: 'Fanny Restrepo Morales',
+        cargo: 'Instructora Experta temática',
+        centro: 'Centro de Comercio y Servicios',
+        regional: 'Regional Risaralda',
       },
       {
-        nombre: 'Gloria Esperanza Ortiz Russi',
-        cargo: 'Diseñador Instruccional',
+        nombre: 'Maryuri Agudelo Franco',
+        cargo: 'Diseñadora Instruccional',
+      },
+      {
+        nombre: 'Andrés Felipe Velandia Espitia',
+        cargo: 'Revisor Metodológico y Pedagógico',
+      },
+      {
+        centro: 'Centro de Diseño y Metrología',
         regional: 'Regional Distrito Capital',
+      },
+      {
+        nombre: 'Sandra Patricia Hoyos Sepúlveda',
+        cargo: 'Diseñadora Instruccional',
+        centro: 'Centro para la Industria de la Comunicación Gráfica',
       },
     ],
     desarrolloProducto: [
@@ -124,29 +130,20 @@ export default {
         cargo: 'Responsable del equipo',
       },
       {
-        nombre: ['Carlos Julián Ramírez Benítez', 'Yuly Andrea Rey Quiñonez'],
+        nombre: ['Carlos Julián Ramírez Benítez'],
         cargo: 'Diseño web',
       },
       {
-        nombre: [
-          'Zuleidy Maria Ruiz Torres',
-          'Wilson Andrés Arenales Caceres',
-          'Gilberto Junior Rodriguez Rodriguez',
-          'Maria Carolina Tamayo',
-          'Victor Cardenas',
-          'Camilo Villamizar',
-          'Carlos Eduardo Garavito',
-          'John Archiniegas',
-        ],
+        nombre: [],
         cargo: 'Producción Audiovisual',
       },
       {
-        nombre: [
-          'Luis Jesús Pérez Madariaga',
-          'Camilo Andrés Bolaño Rey ',
-          'Gustavo Adolfo Marun Suarez',
-        ],
+        nombre: ['Luis Jesús Pérez Madariaga'],
         cargo: 'Desarrollo front-end',
+      },
+      {
+        nombre: 'Yenny patricia ulloa Villamizar',
+        cargo: 'Validación de diseño y contenido',
       },
       {
         centro: 'Centro Industrial del Diseño y la Manufactura',
@@ -162,7 +159,7 @@ export default {
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
-        cargo: 'Validación de recursos',
+        cargo: 'Validación y vinculación en plataforma LMS',
         centro: 'Centro de comercio y servicios',
         regional: 'Regional Tolima',
       },
@@ -326,13 +323,15 @@ export default {
   ],
   complementario: [
     {
-      texto: 'Fases del proceso de evaluación del desempeño laboral.',
+      texto:
+        'Acuerdo 6176 de 2018 Por el cual se establece el Sistema tipo de evaluación del desempeño laboral de los Empleados Públicos de Carrera Administrativa y en Período de Prueba. Bogotá, D.C., 10 de octubre de 2018.',
       tipo: 'Acuerdo',
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=90685',
     },
     {
-      texto: 'Fases del proceso de evaluación del desempeño laboral.',
+      texto:
+        'Anexo técnico del Sistema tipo de evaluación del desempeño. Bogotá, D.C., 10 de octubre de 2018.',
       tipo: 'Anexo del Acuerdo 6176/18',
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=90685',
