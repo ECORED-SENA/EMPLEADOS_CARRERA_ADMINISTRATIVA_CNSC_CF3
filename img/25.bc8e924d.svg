@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="231" viewBox="0 0 600 231">
+  <g id="Grupo_56743" data-name="Grupo 56743" transform="translate(5415 7926)">
+    <rect id="Rectángulo_5676" data-name="Rectángulo 5676" width="600" height="57" transform="translate(-5415 -7876)" fill="#96f8f8"/>
+    <rect id="Rectángulo_5677" data-name="Rectángulo 5677" width="352" height="118" transform="translate(-5415 -7818)" fill="#f1eaff"/>
+    <path id="Trazado_104155" data-name="Trazado 104155" d="M0,0H599.776V50H0Z" transform="translate(-5415 -7926)" fill="#392a8d"/>
+    <text id="Variable:_VALOR_Por_competencia_" data-name="Variable: VALOR (Por competencia)" transform="translate(-5140 -7895)" fill="#fff" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-160.586" y="0">Variable: VALOR (Por competencia)</tspan></text>
+    <text id="Para_la_pregunta_relacionada_con:" data-name="Para la pregunta relacionada con:" transform="translate(-5396 -7857)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="15">Para la pregunta relacionada con:</tspan></text>
+    <text id="Descripción" transform="translate(-5015 -7840)" fill="#12263f" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Descripción</tspan></text>
+    <text id="Si_las_conductas_permiten_aporte_adicional_a_los_compromisos_concertados_" data-name="Si las conductas permiten aporte adicional a los compromisos concertados 
+" transform="translate(-5396 -7793)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Si las conductas permiten aporte </tspan><tspan x="0" y="39">adicional a los compromisos </tspan><tspan x="0" y="63">concertados </tspan><tspan x="0" y="87"></tspan></text>
+    <rect id="Rectángulo_5678" data-name="Rectángulo 5678" width="248" height="60" transform="translate(-5063 -7760)" fill="#f6f6f6"/>
+    <text id="SI" transform="translate(-5015 -7787)" fill="#12263f" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">SI</tspan></text>
+    <text id="NO" transform="translate(-5015 -7730)" fill="#12263f" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">NO</tspan></text>
+    <line id="Línea_197" data-name="Línea 197" y2="177" transform="translate(-5063 -7876)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-width="1"/>
+    <g id="Trazado_104156" data-name="Trazado 104156" transform="translate(-5415 -7876)" fill="none">
+      <path d="M0,176H599.776V0H0Z" stroke="none"/>
+      <path d="M 598.77587890625 175 L 598.77587890625 0.9999923706054688 L 1.000016331672668 0.9999923706054688 L 1.000016331672668 175 L 598.77587890625 175 M 599.77587890625 176 L 1.637620152905583e-05 176 L 1.637620152905583e-05 -7.62939453125e-06 L 599.77587890625 -7.62939453125e-06 L 599.77587890625 176 Z" stroke="none" fill="#bcbcbc"/>
+    </g>
+    <path id="flecha-correcta" d="M21.948,30.591A4.008,4.008,0,1,0,16.28,36.26l5.575,5.576H3.823a3.823,3.823,0,1,0,0,7.645H21.854L16.28,55.056a4.008,4.008,0,0,0,5.668,5.668L36.473,46.2a.765.765,0,0,0,0-1.081Z" transform="translate(-5118 -7833.417)" fill="#5e448f"/>
+    <path id="flecha-correcta-2" data-name="flecha-correcta" d="M21.948,30.591A4.008,4.008,0,1,0,16.28,36.26l5.575,5.576H3.823a3.823,3.823,0,1,0,0,7.645H21.854L16.28,55.056a4.008,4.008,0,0,0,5.668,5.668L36.473,46.2a.765.765,0,0,0,0-1.081Z" transform="translate(-5118 -7776.417)" fill="#5e448f"/>
+  </g>
+</svg>
