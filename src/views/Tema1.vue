@@ -361,7 +361,7 @@
     .tabla-a.color-acento-contenido.mt-5
       .tabla-b__header
         .h6.mb-0 EVIDENCIAS COMPROMISOS FUNCIONALES (F) Y COMPORTAMENTALES (C)
-      table
+      table.table-striped
         tr
           th.text-center(style="width:35%;") Compromisos
           th.text-center(style="width:15%;") F
@@ -464,7 +464,7 @@
               .h6.mb-0 Variable
             .col-6.text-center
               .h6.mb-0 Valoración
-        table(style="max-width:100%;min-width:100%;min-width:100%;")
+        table.table-striped(style="max-width:100%;min-width:100%;min-width:100%;")
           tr
             td.text-center FRECUENCIA: (por conducta asociada)
             td.text-center.p-0
@@ -836,4 +836,8 @@ export default {
   background-color: #00FFFF !important
 .bloque-texto-a.color-secundario:before
   background-color: #D8FFFF
+.table-striped tr:nth-child(odd)
+  background: #F6F6F6
+.table-striped tr:nth-child(even)
+  background: #ffffff
 </style>

@@ -134,7 +134,15 @@ export default {
         cargo: 'Diseño web',
       },
       {
-        nombre: [],
+        nombre: [
+          'Zuleidy Maria Ruiz Torres',
+          'Wilson Andrés Arenales Caceres',
+          'Gilberto Junior Rodriguez Rodriguez',
+          'Maria Carolina Tamayo',
+          'Maria Camila Ovalle',
+          'Ludwyng Corzo',
+          'Arnulfo Beltrán',
+        ],
         cargo: 'Producción Audiovisual',
       },
       {
