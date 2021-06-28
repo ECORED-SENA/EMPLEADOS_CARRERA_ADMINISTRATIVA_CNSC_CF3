@@ -10,10 +10,10 @@
       .h3 Introducción
 
     p.mt-4 Para dar inicio al desarrollo de las temáticas del presente lo invitamos a revisar en primera instancia el video que se relaciona a continuación:
-    
+
     figure.mb-5.mt-4
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/qtQ7gpjohj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/98aZRVAofSc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       
 </template>
 
