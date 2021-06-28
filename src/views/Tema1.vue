@@ -8,55 +8,9 @@
         .h3 1
       .h3 Fases del proceso de evaluación del desempeño laboral
 
-    p.mt-4 El Sistema de Evaluación del Desempeño Laboral tipo de la Comisión Nacional del Servicio Civil (CNSC) reglamentado por el Acuerdo 6176 de 2018 y su anexo técnico, #[strong establece cuatro fases para llevar a cabo el proceso de evaluación del desempeño laboral] para el periodo anual y el período de prueba de los servidores públicos de la siguiente manera: 
-
-    .text-center.mt-5
-      .row.col-md-8(style="margin:0 auto")
-        .col-md-3.p-3
-          img(src="@/assets/curso/tema1/1.svg")
-          h6.mt-2 Concertación de Compromisos
-        .col-md-3.p-3
-          img(src="@/assets/curso/tema1/2.svg")
-          h6.mt-2 Seguimiento
-        .col-md-3.p-3
-          img(src="@/assets/curso/tema1/3.svg")
-          h6.mt-2 Evaluaciones Parciales
-        .col-md-3.p-3
-          img(src="@/assets/curso/tema1/4.svg")
-          h6.mt-2 Calificación Definitiva
-
-    br
-    br
-    .titulo-segundo.mt-5
-      #t_1_1.h4 1.1 Fase I Concertación de compromisos laborales
-
-    p.mt-4 La concertación de compromisos entre el evaluado y el evaluador debe hacerse dentro de los quince (15) días hábiles siguientes del inicio del período de evaluación anual o de la posesión del servidor en período de prueba.
-
-    p.mt-3 #[strong Atendiendo al acuerdo 6176 de 2018, en la concertación de compromisos se deben tener en cuenta los siguientes insumos:]
-
-    .row.mt-5
-      .col-md-8.mb-3
-        .p-4(style="background-color:#F1EAFF")
-          ul.lista-ul
-            li.mt-3 
-              i.fas.fa-check
-              | Manual específico de funciones y competencias laborales.
-            li.mt-3 
-              i.fas.fa-check
-              | Planes institucionales o metas por áreas, dependencias, grupos internos de trabajo y procesos o indicadores de gestión. 
-            li.mt-3 
-              i.fas.fa-check
-              | El resultado de la evaluación de áreas o dependencias del año inmediatamente anterior, expedida por la oficina de control interno o quien haga sus veces.
-            li.mt-3 
-              i.fas.fa-check
-              | El resultado de la última calificación definitiva del desempeño laboral.
-            li.mt-3.mb-3
-              i.fas.fa-check
-              | Los compromisos de mejoramiento individual si se realizaron en el periodo de evaluación inmediatamente anterior.
-
-
-      .col-md-4
-          img(src="@/assets/curso/tema1/5.svg")
+    figure.mb-5.mt-4
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/m0wEC1cpxQU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     br
     br
