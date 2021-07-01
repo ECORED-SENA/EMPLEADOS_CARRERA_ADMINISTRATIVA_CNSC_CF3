@@ -21,7 +21,7 @@
         i.fas.fa-quote-right
         i.fas.fa-quote-right
       .p-4(style="background-color:#D8FFFF")
-        p.text-center Los compromisos funcionales: Son los resultados, productos o servicios susceptibles de ser medidos y verificados, que deberá cumplir el servidor en el período de evaluación respectivo, de conformidad con los plazos y condiciones establecidas en la fase de concertación.
+        p.text-center Los compromisos funcionales: son los resultados, productos o servicios susceptibles de ser medidos y verificados, que deberá cumplir el servidor en el período de evaluación respectivo, de conformidad con los plazos y condiciones establecidas en la fase de concertación.
 
         p.mt-3.text-center #[strong (Anexo técnico del Acuerdo 6176/18)]
 
@@ -34,7 +34,7 @@
       .col-md-7(style="margin:0 auto;")
         img(src="@/assets/curso/tema1/7.svg")
 
-    p.mt-5 Al elaborar compromisos es importante que respondan a preguntas relacionadas con cada uno de los elementos de la estructura del compromiso (verbo, objeto y condición de resultado)
+    p.mt-5 Al elaborar compromisos es importante que respondan a preguntas relacionadas con cada uno de los elementos de la estructura del compromiso (verbo, objeto y condición de resultado).
 
     h6.mt-5 Verbo:
 
@@ -207,7 +207,7 @@
             .h6 Omisión de evaluador
             p De no ser posible la concertación de los compromisos por omisión del evaluador, el evaluado dentro de los tres (3) días hábiles siguientes al vencimiento de dicho término, le remitirá una propuesta de compromisos, respecto de la cual el evaluador hará observaciones y le presentará una propuesta ajustada. De no existir consenso, el evaluador procederá a fijarlos y el evaluado podrá presentar reclamación ante la Comisión de Personal de la entidad, dentro de los dos (2) días hábiles siguientes con la manifestación expresa de los motivos de su inconformidad.
 
-    p.mt-5 #[strong Parágrafo.] La comisión de personal de la entidad conocerá y decidirá en única instancia, las reclamaciones que promuevan los evaluados por inconformidad frente a los compromisos. La decisión deberá proferirse en un término máximo de diez (10) días hábiles tanto para el período anual como para el período de prueba. Si prospera la reclamación, el evaluador deberá ajustarlos, teniendo en consideración los parámetros señalados por la comisión de personal (Acuerdo 6176/18)
+    p.mt-5 #[strong Parágrafo.] La comisión de personal de la entidad conocerá y decidirá en única instancia, las reclamaciones que promuevan los evaluados por inconformidad frente a los compromisos. La decisión deberá proferirse en un término máximo de diez (10) días hábiles tanto para el período anual como para el período de prueba. Si prospera la reclamación, el evaluador deberá ajustarlos, teniendo en consideración los parámetros señalados por la comisión de personal (Acuerdo 6176/18).
 
     p.mt-3 Así mismo, en el anexo técnico del Acuerdo 6176/18 se definen de la siguiente forma, las situaciones que dan lugar al ajuste de compromisos, durante el periodo anual y periodo de prueba: 
 
@@ -395,7 +395,7 @@
 
     .row.mt-5
       .col-md-7.mb-3
-        p En el periodo de evaluación anual se deben realizar evaluaciones parciales semestrales, y pueden presentarse situaciones administrativas que dan lugar a evaluaciones parciales eventuales en periodo anual y evaluaciones parciales en periodo de prueba. Dichas situaciones se definen en los numerales 3.3.1 y 3.3.2 
+        p En el periodo de evaluación anual se deben realizar evaluaciones parciales semestrales, y pueden presentarse situaciones administrativas que dan lugar a evaluaciones parciales eventuales en periodo anual y evaluaciones parciales en periodo de prueba. Dichas situaciones se definen en los numerales 3.3.1 y 3.3.2.
 
         p.mt-3 Si en el periodo semestral, se generan evaluaciones parciales eventuales, el periodo se debe cerrar con otra evaluación parcial eventual, por el lapso comprendido entre la última evaluación y el final del periodo, y los resultados se deben tener en cuenta en las evaluaciones parciales semestrales.
 
@@ -481,7 +481,7 @@
     .titulo-tercero.mt-5
       h5 Evaluaciones parciales en periodo de prueba
 
-    .col-md-8.mt-4
+    .mt-4
       p En el artículo 6 del Acuerdo 617 de 2018, se definen las siguientes situaciones especiales, que dan lugar a la realización de evaluaciones parciales eventuales en periodo de prueba:
 
     .row.mt-5
