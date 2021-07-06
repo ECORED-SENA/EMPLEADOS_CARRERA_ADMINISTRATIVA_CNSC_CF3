@@ -13,6 +13,35 @@
         iframe(width="560" height="315" src="https://www.youtube.com/embed/m0wEC1cpxQU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     br
+    .titulo-segundo.mt-2
+      #t_1_1.h4 1.1 Fase I Concertación de compromisos laborales
+
+    p.mt-4 La concertación de compromisos entre el evaluado y el evaluador debe hacerse dentro de los quince (15) días hábiles siguientes del inicio del período de evaluación anual o de la posesión del servidor en período de prueba.
+
+    p.mt-3 Atendiendo al acuerdo 6176 de 2018, en la concertación de compromisos se deben tener en cuenta los siguientes insumos:
+
+    .row.mt-5
+      .col-md-8.mb-3
+        .p-4(style="background-color:#F1EAFF")
+          ul.lista-ul
+            li.mt-3 
+              i.fas.fa-check
+              | Manual específico de funciones y competencias laborales.
+            li.mt-3 
+              i.fas.fa-check
+              | Planes institucionales o metas por áreas, dependencias, grupos internos de trabajo y procesos o indicadores de gestión. 
+            li.mt-3 
+              i.fas.fa-check
+              | El resultado de la evaluación de áreas o dependencias del año inmediatamente anterior, expedida por la oficina de control interno o quien haga sus veces.
+            li.mt-3.mb-3
+              i.fas.fa-check
+              | Los compromisos de mejoramiento individual si se realizaron en el periodo de evaluación inmediatamente anterior.
+
+
+      .col-md-4
+          img(src="@/assets/curso/tema1/5.svg")
+
+    br
     br
     .titulo-tercero
       h5 Compromisos funcionales

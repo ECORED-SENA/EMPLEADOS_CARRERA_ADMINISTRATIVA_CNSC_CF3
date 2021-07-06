@@ -29,6 +29,12 @@ export default {
         subMenu: [
           {
             icono: 'far fa-file-alt',
+            numero: '1.1',
+            titulo: 'Fase I Concertación de compromisos laborales',
+            hash: 't_1_1',
+          },
+          {
+            icono: 'far fa-file-alt',
             numero: '1.2',
             titulo: 'Fase II Seguimiento',
             hash: 't_1_2',
